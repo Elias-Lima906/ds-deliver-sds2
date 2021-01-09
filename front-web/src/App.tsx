@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import './App.css';
+import Navbar from './Navbar/index'
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
 
   return (
     <div>
-      <h1>Hello World</h1>
+      <Navbar />
     </div>
   );
 }
