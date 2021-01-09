@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import './App.css';
-import Home from './home';
-import Navbar from './Navbar/index'
+import Routes from './routes';
 
 function App() {
 
@@ -10,10 +9,7 @@ function App() {
   }, [])
 
   return (
-    <>
-      <Navbar />
-      <Home />
-    </>
+      <Routes />
   );
 }
 
