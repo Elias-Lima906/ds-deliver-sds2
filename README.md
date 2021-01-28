@@ -7,7 +7,7 @@
 Projeto desenvolvido na 2° edição da semana [**Dev Superior**](https://www.youtube.com/c/DevSuperior/featured), 
 orquestrado por [**Nelio Alves**](https://www.linkedin.com/in/nelio-alves) e [**Washington Soares**](https://www.linkedin.com/in/washington-soares-braga).
 
-Durante a semana Dev Superior foi desenvolvida uma API e uma aplicação Front End na qual é possível realizar pedidos, 
+Durante a semana Dev Superior foi desenvolvida uma API e uma aplicação Front End, na qual é possível realizar pedidos
 simulando uma aplicação de delivery.
 
 A aplicação conta com algumas funcionalidades, como:
