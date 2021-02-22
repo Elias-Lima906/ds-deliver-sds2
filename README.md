@@ -73,4 +73,3 @@ A aplicação conta com algumas funcionalidades, como:
 # Autoria
 
 ```Linked-In:``` [Elias Pereira de Lima](https://www.linkedin.com/in/elias-lima-298373190)
-v
