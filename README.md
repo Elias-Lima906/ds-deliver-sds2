@@ -70,6 +70,6 @@ A aplicação conta com algumas funcionalidades, como:
 "mvn spring-boot:run"
 ```
 
-# Autoria
+# Autoria:
 
 ```Linked-In:``` [Elias Pereira de Lima](https://www.linkedin.com/in/elias-lima-298373190)
